@@ -1,0 +1,28 @@
+Recap of OOP Concepts
+
+Class → har problem ek class me solve.
+
+Attributes/Properties → jaise self.text, self.people, self.number.
+
+Methods → count_words, make_change, calculate, etc.
+
+Inheritance → HandheldCalculator → SimpleCalculator se inherit.
+
+Encapsulation → har class apna data andar rakhti hai.
+
+Polymorphism → override method (calculate vs calculate_and_store).
+
+
+📝 Explanation (Easy Language)
+
+Class: har problem ke liye ek class banayi.
+
+Properties (Attributes): data store karne ke liye (jaise self.text, self.number, etc.).
+
+Methods: functions jo object kaam karte hain (count_words, make_change, etc.).
+
+Inheritance: HandheldCalculator → inherits from SimpleCalculator (uses super() to reuse code).
+
+Encapsulation: har class ka apna data internally handle hota hai.
+
+Polymorphism: override kiya calculate method ko ek aur class me (advanced concept).
