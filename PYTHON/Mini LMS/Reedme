@@ -1,0 +1,19 @@
+📘 Learning Concepts Covered
+
+Encapsulation → Private data (students, courses)
+
+Inheritance → Student & Instructor inherit Person
+
+Composition → Student has courses
+
+Aggregation → Instructor manages courses
+
+Abstraction → Hide complexity using methods like assign_course(), view_courses()
+
+
+
+🧩 Practice Questions
+
+Add a new method in Course class → total_students() that returns total enrolled students.
+
+Create another instructor and assign them a new subject (e.g., "Web Development").

@@ -1,0 +1,12 @@
++----------------+
+|  ChangeMaker   |
++----------------+
+| - charged      |
+| - given        |
+| - denominations|
+| - change       |
++----------------+
+| + __init__()   |
+| + calculate_change() |
+| + display_change()   |
++----------------+
